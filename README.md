@@ -1,2 +1,2 @@
 # HarryPotterDeaths
-Network Visualization of Deaths in The Harry Potter Series
+A Fun Network Visualization of Deaths in The Harry Potter Series Using D3.js
